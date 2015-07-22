@@ -12,7 +12,7 @@
 		</action>
 	</package>
 	
-
+	<!-- 11 -->
 	<package name="admin" extends="struts-default" namespace="/admin">
 		<global-results>
 			<result name="msg" >/msg.jsp</result>

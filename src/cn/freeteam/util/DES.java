@@ -13,7 +13,7 @@ public class DES {
     private static String strDefaultKey = "ws";
     private Cipher encryptCipher = null;
     private Cipher decryptCipher = null;
-    /**
+    /**Ss
      * 将byte数组转换为表示16进制值的字符串，
      * 如：byte[]{8,18}转换为：0813，
      * 和public static byte[] hexStr2ByteArr(String strIn)
